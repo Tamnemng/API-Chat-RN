@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { View, TextInput, Text, StyleSheet, Alert, TouchableOpacity, AsyncStorage } from 'react-native';
+import { View, TextInput, Text, StyleSheet, Alert, TouchableOpacity } from 'react-native';
 import { SwipeListView } from 'react-native-swipe-list-view';
-
+import AsyncStorage from '@react-native-async-storage/async-storage';
 const APIInputScreen = ({ navigation }) => {
   const [groupName, setGroupName] = useState('');
   const [apiInput, setApiInput] = useState('');
