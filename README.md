@@ -1,6 +1,7 @@
 ## This app is created to chat by api from LM Studio
 This project is built using React Native by a student. First, enter your API key from LM Studio and add the system prompt for the model.
 Here is an example:
+
 ![screenshot](assets/pic3.png)
 ![screenshot](assets/pic2.png)
 If your added API key is not valid, you will not be able to access the chat screen.
