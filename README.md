@@ -5,7 +5,7 @@ Here is an example:
 ![screenshot](assets/pic3.png)
 ![screenshot](assets/pic2.png)
 If your added API key is not valid, you will not be able to access the chat screen.
-![screenshot](assets/pic2.png)
+![screenshot](assets/pic1.png)
 
 ## Download
 [aab]: https://drive.google.com/file/d/1EHNx_fzrqKrCgBZp2qePliPFBymXRZ9G/view?usp=sharing
