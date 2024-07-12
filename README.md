@@ -8,8 +8,8 @@ If your added API key is not valid, you will not be able to access the chat scre
 ![screenshot](assets/pic1.png)
 
 ## Download
-[aab](https://drive.google.com/file/d/1EHNx_fzrqKrCgBZp2qePliPFBymXRZ9G/view?usp=sharing)
-[apk](https://drive.google.com/file/d/1TWvlpPs21_KNf__xeFdfYV2O-KkDp1vW/view?usp=sharing)
+ - [aab](https://drive.google.com/file/d/1EHNx_fzrqKrCgBZp2qePliPFBymXRZ9G/view?usp=sharing)
+ - [apk](https://drive.google.com/file/d/1TWvlpPs21_KNf__xeFdfYV2O-KkDp1vW/view?usp=sharing)
 
 If you encounter any problems, please report them to me.
 email: nguyndantdm6@gmail.com
